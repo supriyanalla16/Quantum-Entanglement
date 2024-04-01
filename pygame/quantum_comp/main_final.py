@@ -2,7 +2,7 @@ import pygame
 import random
 import sys
 import math
-
+# imports
 pygame.init()
 
 #user-inputs
